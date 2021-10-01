@@ -4,4 +4,5 @@ import App from './App';
 
 const root = document.getElementById('root');
 
-render(<App />, root)
+render(<App />, root);
+console.log('qwe')
